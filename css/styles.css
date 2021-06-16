@@ -15,13 +15,11 @@ body {
   font-family: Roboto, sans-serif;
   font-size: 14px;
   line-height: 1.71;
-  
 }
 
 ul {
   list-style: none;
 }
-
 
 /* Logo */
 
@@ -36,7 +34,7 @@ ul {
 .logo-futer {
   font-family: Raleway, sans-serif;
   color: var(--primary-white-color);
-  font-weight: 700
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
 }
@@ -44,14 +42,12 @@ ul {
   color: var(--accent-color);
 }
 
-
 /* Site-nav */
 .site-nav .link {
   color: #212121;
-  font-weight: 500
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
@@ -61,7 +57,7 @@ ul {
 /* Auth-nav */
 .auth-nav .link {
   color: #757575;
-  font-weight: 500
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
 }
@@ -70,56 +66,52 @@ ul {
   color: var(--accent-color);
 }
 
-
 /* Hero */
 .hero {
   background: #2f303a;
 }
 .hero-title {
   color: var(--primary-white-color);
-  font-weight: 900
+  font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
 }
 /* Button */
 .button {
   color: var(--primary-white-color);
-  font-weight: 700
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   background-color: var(--accent-color);
 }
 
-
 /* Feature list*/
 .feature-list .title {
   color: var(--title-text-color);
-   font-weight: 700
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
- }
+}
 
 /* Section */
 
 .section-title {
   color: var(--title-text-color);
-  font-weight: 700
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
 }
 
-
 /* Team */
 .team-list .title {
   color: var(--title-text-color);
-  font-weight: 500
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
 }
 .profession {
   font-size: 16px;
   line-height: 1.19;
-
 }
 
 /* footer */
@@ -131,17 +123,17 @@ ul {
 
 .address .link {
   color: #ffffff;
-  font-weight: 400
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  }
+}
 .address .link:hover,
 .address .link:focus {
   color: var(--accent-color);
 }
-.address .link.contacts{
+.address .link.contacts {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 400
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
 }
@@ -150,14 +142,13 @@ ul {
   color: var(--accent-color);
 }
 
-
 /* Portfolio */
 
 /* Button-nav */
 .button-nav .link {
   color: var(--title-text-color);
   background: #f5f4fa;
-  font-weight: 500
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
 }
@@ -166,18 +157,19 @@ ul {
 .button-nav .link:focus {
   color: var(--primary-white-color);
   background: var(--accent-color);
-
 }
 
 .work-list .title {
   color: var(--title-text-color);
-  font-weight: 700
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
-
 }
 .work-list .text {
-  font-weight: 400
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
+}
+a {
+  text-decoration: none;
 }
